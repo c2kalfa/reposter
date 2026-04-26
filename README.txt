@@ -1,0 +1,1 @@
+Abre index.html o súbelo a cualquier hosting.
